@@ -5,6 +5,10 @@ from azure.storage.blob import PublicAccess
 from django.conf import settings
 # Microsoft Azure Blob Storage Documentation (Python)
 # https://docs.microsoft.com/en-us/samples/azure/azure-sdk-for-python/storage-blob-samples/
+# pip:
+#   pip install azure-storage-blob
+# requirements:
+#   azure-storage-blob==12.9.0
 
 class Azure_Blob_Storage:
     """
