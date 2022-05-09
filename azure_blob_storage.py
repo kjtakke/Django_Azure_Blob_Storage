@@ -8,7 +8,7 @@ from django.conf import settings
 # https://docs.microsoft.com/en-us/samples/azure/azure-sdk-for-python/storage-blob-samples/
 # pip:
 #   pip install azure-storage-blob
-# requirements:
+# requirements (as @ 2022:05:09):
 #   azure-storage-blob==12.9.0
 
 class Azure_Blob_Storage:
