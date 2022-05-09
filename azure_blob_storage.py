@@ -3,10 +3,7 @@ from azure.storage.blob import ContainerClient
 from azure.storage.blob import BlobServiceClient
 from azure.storage.blob import PublicAccess
 from django.conf import settings
-from django.conf import settings
 
-from azure.storage.blob import BlobServiceClient
-from azure.storage.blob import ContainerClient
 # Microsoft Azure Blob Storage Documentation (Python)
 # https://docs.microsoft.com/en-us/samples/azure/azure-sdk-for-python/storage-blob-samples/
 # pip:
